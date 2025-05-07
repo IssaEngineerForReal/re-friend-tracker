@@ -1,3 +1,4 @@
+
 {
     "application": {
         "title": "Issa Fawaz's Friend Tracker",
@@ -269,7 +270,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewFriend",
+                        "name": "New Friend",
                         "icon": "fa-user",
                         "color": "green",
                         "form": {
@@ -296,7 +297,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewGroup",
+                        "name": "New Group",
                         "icon": "fa-weixin",
                         "color": "green",
                         "form": {
@@ -324,7 +325,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewLocation",
+                        "name": "New Location",
                         "icon": "fa-home",
                         "color": "green",
                         "width": 2,
@@ -353,7 +354,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewActivity",
+                        "name": "New Activity",
                         "icon": "fa-plus",
                         "color": "green",
                         "form": {
@@ -410,7 +411,6 @@
                         "search": false,
                         "url": "/friend/:friendKey/activity",
                         "defaultKey": "activityKey",
-                        "width": 2   ,                     
                         "form": {
                             "form": "AddActivityForm"
                         }
@@ -426,7 +426,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewActivity",
+                        "name": "New Activity",
                         "icon": "fa-plus",
                         "color": "green",
                         "form": {
@@ -454,7 +454,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "AddFriend",
+                        "name": "Add Friend",
                         "icon": "fa-user",
                         "color": "green",
                         "form": {
@@ -483,7 +483,7 @@
                     },
                     {
                         "type": "newButton",
-                        "name": "NewActivity",
+                        "name": "New Activity",
                         "icon": "fa-plus",
                         "color": "green",
                         "form": {
